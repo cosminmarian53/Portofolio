@@ -170,6 +170,18 @@ export const Overlay = () => {
             </a>
             !
           </p>
+          {/* cv */}
+          <p className="mt-3">
+            📄 For more details,{" "}
+            <a
+              href="https://drive.google.com/file/d/1OQguSwePN59bMSY-IEYlMihVqQml8Xvt/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+              <b>check out my CV!</b>
+            </a>
+          </p>
         </Section>
       </div>
     </Scroll>
